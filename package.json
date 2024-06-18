@@ -1,0 +1,26 @@
+{
+  "name": "epitodo",
+  "version": "1.0.0",
+  "description": "This project allows to make an api",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "up": "nodemon ./src/index.js"
+  },
+  "author": "Marin LAGIÉ, Alexis DRAGO-BELTRAN, Maellie BRIENT-BERT",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7"
+  },
+  "devDependencies": {
+    "chalk": "^5.3.0",
+    "dayjs": "^1.11.11",
+    "email-validator": "^2.0.4",
+    "nodemon": "^3.1.0"
+  }
+}

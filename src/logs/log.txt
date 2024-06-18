@@ -1,0 +1,70 @@
+{[16/05 - 14:45:17]} [LOG] Listening at port: 3000
+{[16/05 - 14:45:17]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:45:17]} [SERVER] Database connected
+{[16/05 - 14:47:16]} [LOG] Listening at port: 3000
+{[16/05 - 14:47:16]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:47:16]} [SERVER] Database connected
+{[16/05 - 14:50:50]} [ERROR] Error: Duplicate entry 'marin.lagie@gmail.com' for key 'user.email'
+{[16/05 - 14:50:56]} [ERROR] Error: Duplicate entry 'marin.lagie@gmail.com' for key 'user.email'
+{[16/05 - 14:52:29]} [LOG] Listening at port: 3000
+{[16/05 - 14:52:29]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:52:29]} [SERVER] Database connected
+{[16/05 - 14:54:06]} [LOG] Listening at port: 3000
+{[16/05 - 14:54:06]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:54:06]} [SERVER] Database connected
+{[16/05 - 14:55:09]} [LOG] Listening at port: 3000
+{[16/05 - 14:55:09]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:55:09]} [SERVER] Database connected
+{[16/05 - 14:57:04]} [LOG] Listening at port: 3000
+{[16/05 - 14:57:04]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:57:04]} [SERVER] Database connected
+{[16/05 - 14:59:16]} [LOG] Listening at port: 3000
+{[16/05 - 14:59:16]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 14:59:16]} [SERVER] Database connected
+{[16/05 - 15:00:09]} [LOG] Listening at port: 3000
+{[16/05 - 15:00:09]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:00:09]} [SERVER] Database connected
+{[16/05 - 15:00:09]} [LOG] ici
+{[16/05 - 15:00:47]} [LOG] Listening at port: 3000
+{[16/05 - 15:00:47]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:00:47]} [SERVER] Database connected
+{[16/05 - 15:01:39]} [LOG] Listening at port: 3000
+{[16/05 - 15:01:39]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:01:39]} [SERVER] Database connected
+{[16/05 - 15:05:10]} [LOG] Listening at port: 3000
+{[16/05 - 15:05:10]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:05:10]} [SERVER] Database connected
+{[16/05 - 15:06:26]} [LOG] Listening at port: 3000
+{[16/05 - 15:06:26]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:06:26]} [SERVER] Database connected
+{[16/05 - 15:07:30]} [LOG] Listening at port: 3000
+{[16/05 - 15:07:30]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:07:30]} [SERVER] Database connected
+{[16/05 - 15:08:15]} [LOG] Listening at port: 3000
+{[16/05 - 15:08:15]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:08:15]} [SERVER] Database connected
+{[16/05 - 15:08:38]} [LOG] Listening at port: 3000
+{[16/05 - 15:08:38]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:08:38]} [SERVER] Database connected
+{[16/05 - 15:08:39]} [LOG] ici
+{[16/05 - 15:08:56]} [LOG] Listening at port: 3000
+{[16/05 - 15:08:56]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:08:56]} [SERVER] Database connected
+{[16/05 - 15:10:34]} [LOG] Listening at port: 3000
+{[16/05 - 15:10:34]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:10:34]} [SERVER] Database connected
+{[16/05 - 15:11:12]} [LOG] Listening at port: 3000
+{[16/05 - 15:11:12]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:11:12]} [SERVER] Database connected
+{[16/05 - 15:11:34]} [LOG] Listening at port: 3000
+{[16/05 - 15:11:34]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:11:34]} [SERVER] Database connected
+{[16/05 - 15:16:26]} [LOG] Listening at port: 3000
+{[16/05 - 15:16:26]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:16:26]} [SERVER] Database connected
+{[16/05 - 15:21:33]} [LOG] Listening at port: 3000
+{[16/05 - 15:21:33]} [SERVER] EpiTodo server: http://localhost:3000
+{[16/05 - 15:21:33]} [SERVER] Database connected
+{[20/05 - 14:45:26]} [LOG] Listening at port: 3000
+{[20/05 - 14:45:26]} [SERVER] EpiTodo server: http://localhost:3000
+{[20/05 - 14:45:26]} [SERVER] Database connected
